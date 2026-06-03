@@ -53,7 +53,8 @@ Check out my repositories to see projects related to:
 
 ## 🤝 Connect With Me
 - GitHub: https://github.com/prashna2025
-- LinkedIn: Add your LinkedIn profile here
+- LinkedIn: https://www.linkedin.com/in/prashna-raut-614705392/
+- Email: prashnaraut32@gmail.com
 
 ---
 ⭐ Always learning, building, and improving.
