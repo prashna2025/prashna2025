@@ -49,11 +49,6 @@ Check out my repositories to see projects related to:
 - Academic Assignments
 - Personal Experiments
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=prashna2025&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prashna2025&layout=compact)
 
 ## 🤝 Connect With Me
 - GitHub: https://github.com/prashna2025
