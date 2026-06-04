@@ -37,6 +37,10 @@ I enjoy turning ideas into practical projects and continuously improving my prob
 - Secure a software development internship
 - Grow as a Full-Stack Developer
 
+##live demo
+
+
+
 ## 📂 Featured Projects
 Check out my repositories to see projects related to:
 - Web Development
