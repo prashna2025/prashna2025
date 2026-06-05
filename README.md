@@ -1,59 +1,105 @@
 # Hi, I'm Prashna 👋
 
-## About Me
-I'm a passionate Computer Science student from Nepal who enjoys building web applications and learning new technologies. I am currently focused on Frontend Development while also exploring Java, JSP/Servlets, Databases, and Full-Stack Development.
+### Aspiring Frontend Developer | Python Learner | Future Full-Stack Developer
 
-I enjoy turning ideas into practical projects and continuously improving my problem-solving and programming skills.
+I'm passionate about web development and continuously improving my skills through hands-on projects and daily coding practice. I enjoy building real-world applications, solving programming challenges, and learning new technologies.
 
-## 🚀 Currently Learning
-- Frontend Development
-- React.js
-- Java & Advanced Java
-- JSP & Servlet
-- Database Management Systems
-- Software Engineering Concepts
+---
 
-## 💻 Tech Stack
+## 🚀 About Me
+
+- 🌱 Currently learning JavaScript, Frontend Development, and Python
+- 💻 Building projects to strengthen problem-solving skills
+- 📚 Exploring APIs, DOM Manipulation, and Web Development
+- 📊 Interested in Data Analytics and Power BI
+- 🎯 Goal: Become a skilled Full-Stack Developer
+
+---
+
+## 🛠️ Tech Stack
 
 ### Languages
-- HTML
-- CSS
+- HTML5
+- CSS3
 - JavaScript
+- Python
 - Java
-- SQL
 
 ### Tools & Technologies
 - Git & GitHub
 - VS Code
-- MySQL
-- Bootstrap
-- JSP & Servlet
-- JDBC
-
-## 🎯 Goals
-- Become a skilled Frontend Developer
-- Build real-world projects
-- Contribute to Open Source
-- Secure a software development internship
-- Grow as a Full-Stack Developer
-
-##live demo
-
-
-
-## 📂 Featured Projects
-Check out my repositories to see projects related to:
-- Web Development
-- Java Applications
-- Database Projects
-- Academic Assignments
-- Personal Experiments
-
-
-## 🤝 Connect With Me
-- GitHub: https://github.com/prashna2025
-- LinkedIn: https://www.linkedin.com/in/prashna-raut-614705392/
-- Email: prashnaraut32@gmail.com
+- Power BI
+- Jupyter Notebook
+- Canva
+- Figma (Basic)
 
 ---
-⭐ Always learning, building, and improving.
+
+## 📂 Featured Projects
+
+### 🔐 Random Password Generator
+A JavaScript-based application that generates secure random passwords with customizable options.
+
+**Skills Used:**
+- JavaScript
+- DOM Manipulation
+- Event Handling
+- Functions
+
+---
+
+### 🔍 Dictionary App
+A web application that fetches word meanings using an API and displays definitions, pronunciation, and examples.
+
+**Skills Used:**
+- JavaScript
+- Fetch API
+- Async Programming
+- Error Handling
+
+---
+
+### 🎬 Cinema Ticket Pricing System
+Python application that calculates ticket prices based on age, membership status, and day of the week.
+
+**Skills Used:**
+- Python
+- Conditional Statements
+- Logical Operators
+- User Input Handling
+
+---
+
+### 📊 Student Report Card Generator
+Python project that calculates total marks, percentage, grade, and pass/fail status.
+
+**Skills Used:**
+- Python
+- Dictionaries
+- Arithmetic Operations
+- Data Processing
+
+---
+
+## 📈 Current Focus
+
+- Advanced JavaScript
+- API Integration
+- Responsive Web Design
+- React.js
+- Problem Solving
+
+---
+
+## 🌐 Connect With Me
+
+- LinkedIn: www.linkedin.com/in/prashna-raut-614705392
+- GitHub: https://github.com/prashna2025
+
+---
+
+### 💡 Quote
+
+"Consistency beats intensity. Small progress every day leads to big results."
+
+⭐ Thanks for visiting my profile!
