@@ -1,6 +1,6 @@
 # Hi, I'm Prashna 👋
 
-### Aspiring Frontend Developer | Python Learner | Future Full-Stack Developer
+### Aspiring Frontend Developer | JavaScript Learner | Future Full-Stack Developer
 
 I'm passionate about web development and continuously improving my skills through hands-on projects and daily coding practice. I enjoy building real-world applications, solving programming challenges, and learning new technologies.
 
@@ -10,9 +10,9 @@ I'm passionate about web development and continuously improving my skills throug
 
 - 🌱 Currently learning JavaScript, Frontend Development, and Python
 - 💻 Building projects to strengthen problem-solving skills
-- 📚 Exploring APIs, DOM Manipulation, and Web Development
+- 📚 Exploring APIs, DOM Manipulation, and Responsive Design
 - 📊 Interested in Data Analytics and Power BI
-- 🎯 Goal: Become a skilled Full-Stack Developer
+- 🎯 Goal: Become a Full-Stack Developer
 
 ---
 
@@ -31,49 +31,77 @@ I'm passionate about web development and continuously improving my skills throug
 - Power BI
 - Jupyter Notebook
 - Canva
-- Figma (Basic)
 
 ---
 
-## 📂 Featured Projects
+## 🌟 Featured Projects
 
-### 🔐 Random Password Generator
-A JavaScript-based application that generates secure random passwords with customizable options.
+### 📚 Learning Hub
+An educational website designed to provide learning resources and a user-friendly experience for students.
 
-**Skills Used:**
+🔗 Live Demo: https://brilliant-beignet-8faa36.netlify.app/
+
+**Skills Used**
+- HTML
+- CSS
+- JavaScript
+- Responsive Design
+
+---
+
+### 🎮 Trio The Game
+A fun browser-based game focused on logic, interaction, and user engagement.
+
+🔗 Live Demo: https://trio-the-game.netlify.app/
+
+**Skills Used**
 - JavaScript
 - DOM Manipulation
+- Game Logic
 - Event Handling
-- Functions
 
 ---
 
-### 🔍 Dictionary App
-A web application that fetches word meanings using an API and displays definitions, pronunciation, and examples.
+### 📖 Dictionary App
+A web application that fetches word meanings using an API and displays definitions and related information.
 
-**Skills Used:**
+🔗 Live Demo: https://dictionary-mini-project.netlify.app/
+
+**Skills Used**
 - JavaScript
 - Fetch API
-- Async Programming
+- Async/Await
 - Error Handling
 
 ---
 
-### 🎬 Cinema Ticket Pricing System
-Python application that calculates ticket prices based on age, membership status, and day of the week.
+### 🔐 Pass The Password
+A random password generator that creates secure passwords with different customization options.
 
-**Skills Used:**
+🔗 Live Demo: https://passthepassword.netlify.app/
+
+**Skills Used**
+- JavaScript
+- Functions
+- DOM Manipulation
+- User Interaction
+
+---
+
+### 🎬 Cinema Ticket Pricing System
+Python application that calculates cinema ticket prices based on age, membership status, and day of the week.
+
+**Skills Used**
 - Python
 - Conditional Statements
 - Logical Operators
-- User Input Handling
 
 ---
 
 ### 📊 Student Report Card Generator
-Python project that calculates total marks, percentage, grade, and pass/fail status.
+Python project that calculates total marks, percentage, grades, and pass/fail status.
 
-**Skills Used:**
+**Skills Used**
 - Python
 - Dictionaries
 - Arithmetic Operations
@@ -81,25 +109,25 @@ Python project that calculates total marks, percentage, grade, and pass/fail sta
 
 ---
 
-## 📈 Current Focus
+## 📈 Currently Learning
 
 - Advanced JavaScript
 - API Integration
 - Responsive Web Design
 - React.js
-- Problem Solving
+- Git & GitHub Best Practices
 
 ---
 
-## 🌐 Connect With Me
+## 📫 Connect With Me
 
-- LinkedIn: www.linkedin.com/in/prashna-raut-614705392
+- LinkedIn: https://www.linkedin.com/in/prashna-raut-614705392/
 - GitHub: https://github.com/prashna2025
 
 ---
 
-### 💡 Quote
+## 💡 Quote
 
-"Consistency beats intensity. Small progress every day leads to big results."
+> Consistency beats talent when talent doesn't stay consistent.
 
 ⭐ Thanks for visiting my profile!
