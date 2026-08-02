@@ -1,6 +1,6 @@
 # Hi, I'm Prashna 👋
 
-### Aspiring Frontend Developer | JavaScript Learner | Future Full-Stack Developer
+### Aspiring MearnStack Developer | 
 
 I'm passionate about web development and continuously improving my skills through hands-on projects and daily coding practice. I enjoy building real-world applications, solving programming challenges, and learning new technologies.
 
