@@ -1,4 +1,4 @@
-# Hi, I'm Prashna Raut  👋
+# Hello, its me prashna from IIC.
 
 ### Aspiring MernStack Developer | 
 
